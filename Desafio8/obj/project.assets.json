@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\017585631\\Desktop\\codes\\Curso\\Desafio8\\Desafio8.csproj",
+      "projectUniqueName": "C:\\Users\\017585631\\Desktop\\codes\\Desafios\\Desafio8\\Desafio8.csproj",
       "projectName": "Desafio8",
-      "projectPath": "C:\\Users\\017585631\\Desktop\\codes\\Curso\\Desafio8\\Desafio8.csproj",
+      "projectPath": "C:\\Users\\017585631\\Desktop\\codes\\Desafios\\Desafio8\\Desafio8.csproj",
       "packagesPath": "C:\\Users\\017585631\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\017585631\\Desktop\\codes\\Curso\\Desafio8\\obj\\",
+      "outputPath": "C:\\Users\\017585631\\Desktop\\codes\\Desafios\\Desafio8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,13 @@
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\bin\Debug\netcoreapp3.1\Desafio11.exe
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\bin\Debug\netcoreapp3.1\Desafio11.deps.json
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\bin\Debug\netcoreapp3.1\Desafio11.runtimeconfig.json
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\bin\Debug\netcoreapp3.1\Desafio11.runtimeconfig.dev.json
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\bin\Debug\netcoreapp3.1\Desafio11.dll
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\bin\Debug\netcoreapp3.1\Desafio11.pdb
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.AssemblyInfoInputs.cache
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.AssemblyInfo.cs
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.csproj.CoreCompileInputs.cache
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.dll
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.pdb
+C:\Users\017585631\Desktop\codes\Desafios\Desafio11\obj\Debug\netcoreapp3.1\Desafio11.genruntimeconfig.cache

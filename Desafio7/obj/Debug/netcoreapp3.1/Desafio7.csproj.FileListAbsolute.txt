@@ -1,0 +1,14 @@
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.csproj.AssemblyReference.cache
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.AssemblyInfoInputs.cache
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.AssemblyInfo.cs
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.csproj.CoreCompileInputs.cache
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\bin\Debug\netcoreapp3.1\Desafio7.exe
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\bin\Debug\netcoreapp3.1\Desafio7.deps.json
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\bin\Debug\netcoreapp3.1\Desafio7.runtimeconfig.json
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\bin\Debug\netcoreapp3.1\Desafio7.runtimeconfig.dev.json
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\bin\Debug\netcoreapp3.1\Desafio7.dll
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\bin\Debug\netcoreapp3.1\Desafio7.pdb
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.dll
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.pdb
+C:\Users\017585631\Desktop\codes\Curso\Desafio7\obj\Debug\netcoreapp3.1\Desafio7.genruntimeconfig.cache

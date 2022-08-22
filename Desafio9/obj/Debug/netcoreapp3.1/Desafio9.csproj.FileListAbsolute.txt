@@ -1,0 +1,14 @@
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\bin\Debug\netcoreapp3.1\Desafio9.exe
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\bin\Debug\netcoreapp3.1\Desafio9.deps.json
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\bin\Debug\netcoreapp3.1\Desafio9.runtimeconfig.json
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\bin\Debug\netcoreapp3.1\Desafio9.runtimeconfig.dev.json
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\bin\Debug\netcoreapp3.1\Desafio9.dll
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\bin\Debug\netcoreapp3.1\Desafio9.pdb
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.csproj.AssemblyReference.cache
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.AssemblyInfoInputs.cache
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.AssemblyInfo.cs
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.csproj.CoreCompileInputs.cache
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.dll
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.pdb
+C:\Users\017585631\Desktop\codes\Curso\Desafio9\obj\Debug\netcoreapp3.1\Desafio9.genruntimeconfig.cache

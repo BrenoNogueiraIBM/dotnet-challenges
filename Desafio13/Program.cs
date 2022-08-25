@@ -8,11 +8,9 @@ namespace Desafio13
     {
         static void Main(string[] args)
         {
-            List<int> listX = new List<int>();
-            List<int> listY = new List<int>();
+            List<Point> list = new List<Point>();
             while (true)
             {
-
                 Console.WriteLine("Digite coordenadas (x,y): ");
                 string[] values = Console.ReadLine().Trim().Split(" ");
                 int x = int.Parse(values[0]);
@@ -21,16 +19,13 @@ namespace Desafio13
                 if (x == 0 || y == 0)
                     break;
 
-                listX.Add(x);
-                listY.Add(y);
-            }
-            Console.WriteLine();
-            QuadrantFinder qf = new QuadrantFinder();
-            foreach (var item in listX.Zip(listY, Tuple.Create))
-            {
-                Console.WriteLine(qf.FindQuadrant(item.Item1, item.Item2));
+                list.Add(new Point(x, y));
             }
 
+            Console.WriteLine();
+            QuadrantFinder qf = new QuadrantFinder();
+            foreach (var item in list)
+                Console.WriteLine(qf.FindQuadrant(item));
         }
     }
 }

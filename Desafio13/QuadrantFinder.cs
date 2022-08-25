@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Desafio13
+﻿namespace Desafio13
 {
     class QuadrantFinder
     {
@@ -10,13 +6,13 @@ namespace Desafio13
         {
         }
 
-        public string FindQuadrant(int x, int y)
+        public string FindQuadrant(Point p)
         {
-            if (x > 0 && y > 0)
+            if (p.X > 0 && p.Y > 0)
                 return "primeiro";
-            else if (x < 0 && y < 0)
+            else if (p.X < 0 && p.Y < 0)
                 return "terceiro";
-            else if (x < 0 && y > 0)
+            else if (p.X < 0 && p.Y > 0)
                 return "segundo";
             else
                 return "quarto";

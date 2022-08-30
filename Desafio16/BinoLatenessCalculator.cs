@@ -1,17 +1,17 @@
 ﻿namespace Desafio16
 {
-    internal class BinoLatenessCalculator
+    public class BinoLatenessCalculator
     {
         public BinoLatenessCalculator()
         {
         }
 
-        public int ToMinutes(int hours, int minutes)
+        private int ToMinutes(int hours, int minutes)
         {
             return (hours * 60) + minutes;
         }
 
-        public int BinoCommute(int minutes)
+        private int BinoCommute(int minutes)
         {
             return minutes + 60;
         }

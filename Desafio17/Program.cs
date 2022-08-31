@@ -18,7 +18,10 @@ namespace Desafio17
 
                 Console.WriteLine("Escolha Jogador 2: ");
                 string j2 = Console.ReadLine().Trim().ToLower();
+
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine(hb.Battle(j1, j2));
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine();
             }
 

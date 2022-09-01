@@ -15,7 +15,7 @@ namespace Desafio19
             //DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yy", CultureInfo.InvariantCulture);
 
             string input = File.ReadAllText(@"C:\input.txt");
-            DateTime date = DateTime.ParseExact(input, "dd/MM/yy", CultureInfo.InvariantCulture);
+            DateTime date = DateTime.ParseExact(input.Trim(), "dd/MM/yy", CultureInfo.InvariantCulture);
 
 
             IOutput outProvider;

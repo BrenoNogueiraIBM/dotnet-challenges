@@ -1,6 +1,7 @@
 ﻿using Desafio19.Interfaces;
 using System;
 using System.Globalization;
+using System.IO;
 
 namespace Desafio19
 {
@@ -10,8 +11,12 @@ namespace Desafio19
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite a Data: ");
-            DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yy", CultureInfo.InvariantCulture);
+            //Console.Write("Digite a Data: ");
+            //DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yy", CultureInfo.InvariantCulture);
+
+            string input = File.ReadAllText(@"C:\input.txt");
+            DateTime date = DateTime.ParseExact(input, "dd/MM/yy", CultureInfo.InvariantCulture);
+
 
             IOutput outProvider;
             Console.Write("Mostrar resultado como (arquivo/console): ");

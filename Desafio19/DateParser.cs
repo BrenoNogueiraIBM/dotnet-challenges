@@ -7,13 +7,13 @@ namespace Desafio19
 {
     class DateParser
     {
-        public List<string> ParsedDates { get; set; }
+        private List<string> _parsedDates { get; set; }
 
-        private IOutput _outputter;
+        private readonly IOutput _outputter;
 
         public DateParser(IOutput outputter)
         {
-            ParsedDates = new List<string>();
+            _parsedDates = new List<string>();
             _outputter = outputter;
         }
 
@@ -22,12 +22,12 @@ namespace Desafio19
             string[] formats = new string[] { "MM/dd/yy", "yy/MM/dd", "dd-MM-yy" };
 
             for (int i = 0; i < formats.Length; i++)
-                ParsedDates.Add(date.ToString(formats[i]));
+                _parsedDates.Add(date.ToString(formats[i]));
         }
 
         public void Output()
         {
-            _outputter.OutputResult(ParsedDates);
+            _outputter.OutputResult(_parsedDates);
         }
     }
 }

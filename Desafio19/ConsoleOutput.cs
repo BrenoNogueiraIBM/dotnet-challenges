@@ -7,7 +7,6 @@ namespace Desafio19
 {
     class ConsoleOutput : IOutput
     {
-
         public void OutputResult(List<string> values)
         {
             foreach (var item in values)

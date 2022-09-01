@@ -11,14 +11,16 @@ namespace Desafio19
         public string FilePath { get; set; }
         public FileOutput(string filePath)
         {
-            FilePath = filePath + @"output.txt";
+            FilePath = filePath;
         }
 
         public void OutputResult(List<string> values)
         {
-            using StreamWriter writer = new StreamWriter(FilePath);
-            foreach (var item in values)
-                writer.WriteLine(item);
+            for (int i = 0; i < values.Count; i++)
+            {
+                using StreamWriter writer = new StreamWriter(Path.Combine(FilePath, $"output{i}.txt"));
+                writer.WriteLine(values[i]);
+            }
         }
     }
 }

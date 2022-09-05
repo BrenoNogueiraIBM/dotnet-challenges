@@ -4,7 +4,7 @@ using System.IO;
 
 namespace Desafio19
 {
-    class FileOutput : IOutput
+    class FileOutput : IOutput 
     {
         public string FilePath { get; set; }
         public FileOutput(string filePath)

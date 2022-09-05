@@ -13,7 +13,7 @@ namespace Desafio21
 
         private string SplitCheck(string target)
         {
-            string[] values = target.Split(" ");
+            string[] values = target.Trim().Split(" "); 
             string lenghts = "";
             foreach (string go in values)
             {
